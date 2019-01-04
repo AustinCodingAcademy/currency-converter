@@ -1,3 +1,10 @@
+### Intro
+The purpose of this project is to get some experience building real life functionality. This is a practice that would be given to you by a prospective employer before an interview. The intent would be to see if you have the skills necessary to build something realistic that would actually be used in business software. They want to see your ability to code before they spend time interviewing you. There are no brain teasers or algorithms but it does require a small amount of math and logic thinking.
+
+### Setup
+Use any approach you want to build this project. An online editor, create-react-app or raw React.
+Use React but do not include jQuery in your project.
+
 ### Instructions
 
 Create a currency converter that converts a user’s selected base currency and outputs the equivalent money value of the exchange currency using the current day’s rate.
@@ -23,6 +30,6 @@ In order to more easily test error handling, allow the user to select a currency
  
 Show the equivalent money value's currency symbol which is included in the above Common-Currency.json endpoint.
 
-Use React but do not include jQuery in your project.
+
 
 [Example](https://plnkr.co/edit/Ap0oLDcb3vt1eLAnEUxe?p=preview)
