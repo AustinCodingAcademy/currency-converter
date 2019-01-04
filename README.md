@@ -24,3 +24,5 @@ In order to more easily test error handling, allow the user to select a currency
 Show the equivalent money value's currency symbol which is included in the above Common-Currency.json endpoint.
 
 Use React but do not include jQuery in your project.
+
+[Example](https://plnkr.co/edit/Ap0oLDcb3vt1eLAnEUxe?p=preview)
